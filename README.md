@@ -1,3 +1,2 @@
-# X_O_AI
-THIS PROJECT IS TRIAL INTO MY ROAD TO BE EXPERTISE IN BUILDING AI MODELS
-FOR FIRST PHASE, I TRY BILD AI 
+# Tic-Tac-Toe
+This project represents a crucial step in my journey towards becoming an expert in AI model creation. The initial phase of this endeavor involves designing an AI model capable of achieving victory in the game of Tic-Tac-Toe, utilizing advanced algorithms such as Minimax and Alpha Beta. By leveraging these techniques, the aim is to build a highly effective and efficient AI model with the ultimate goal of developing it for more complex and intricate challenges in the future."
